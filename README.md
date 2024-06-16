@@ -1,6 +1,6 @@
 # AoE2 app
 
-The app is running at https://aoe-app.fly.dev/
+Further developed app running at https://aoe-app-keimo-1.fly.dev/
 
 ## About the app 
 
